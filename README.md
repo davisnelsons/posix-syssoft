@@ -25,4 +25,4 @@ A custom thread safe shared buffer implementation for one writer and two consume
 * Main file needs refactoring into multiple files
 * Priority mechanism for datamgr/storagemgr breaks down when high frequency of data is being sent
 * Confusing and hard to maintain mutex locking
-* Buggy log process, the killing of this process needs rework, every once in a while a zombie process occurs
+* Buggy log process - sometimes corrupted characters, as well as the killing of this process needs rework, every once in a while a zombie process occurs
