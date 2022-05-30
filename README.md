@@ -1,5 +1,5 @@
 # posix-syssoft
-
+(no git history because originally hosted on private gitlab server)
 A posix-thread implementation of a temperature sensor gateway I wrote for a university course some time ago as a first foray in Linux-C and operating system principles.
 Because this implementation is partly based on code provided by course instructors which I did not include for copyright purposes, it is non functional with just this codeset.
 Moreover a double-pointed list implementation is necessary, which I only partly wrote so it cannot be included.
